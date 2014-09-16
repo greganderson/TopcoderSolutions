@@ -1,3 +1,6 @@
+/*
+ * Not done
+ */
 public class BinaryCode {
 	
 	public static String[] decode(String message) {
